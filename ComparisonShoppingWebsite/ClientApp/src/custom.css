@@ -1,0 +1,21 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+body {
+    background: url('https://66.media.tumblr.com/e646668657e92fe9b65fa5120b841b9b/tumblr_ongi5bVw8v1slhhf0o1_1280.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
